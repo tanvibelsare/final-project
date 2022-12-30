@@ -1,0 +1,221 @@
+
+ .navbar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color:#fff;
+        box-shadow:0 15px 40px -20px rgb(40 44 63/15%) ;
+        height: 80px;
+        padding: 20px;
+        
+}
+.navbar .nav{
+    width: 1728px;
+   height: 87px;
+  background:#000000;
+  position: relative;
+  height: 80px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.nav ,left{
+    width: 173px;
+height: 29px;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+
+}
+.nav .right .items{
+    display: flex;
+
+}
+.inside-head{
+    display: flex;
+
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.content .section-1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.content .section-1 .image{
+    position: absolute;
+    width: 572px;
+    height: 726px;
+    left: 89px;
+    top: 1353px;
+} 
+.content .section-1 .about-us h1{
+    position: absolute;
+width: 912px;
+height: 225px;
+left: 747px;
+top: 1352px;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+color: #000000;
+} 
+.content .section-1 .about-us p{
+    position: absolute;
+width: 912px;
+height: 546px;
+left: 747px;
+top: 1525px;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+
+}
+.content .section-2 h1{
+    position: absolute;
+width: 912px;
+height: 160px;
+left: 82px;
+top: 2251px;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+color: #000000;
+
+}
+.content .section-3 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.content .section-3 .service-1 h4{
+    position: absolute;
+width: 253px;
+height: 78px;
+left: 126px;
+top: 2509px;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+
+}
+.content .section-3 .service-1 p{
+    position: absolute;
+width: 510px;
+height: 254px;
+left: 126px;
+top: 2602px;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.content .section-3 .service-2 h4{
+    position: absolute;
+width: 253px;
+height: 78px;
+left: 791px;
+top: 2509px;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+
+}
+.content .section-3 .service-2 p{
+    position: absolute;
+width: 510px;
+height: 254px;
+ left: 791px;
+top: 2602px; 
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+
+}
+.content .section-3 .service-3 h4{
+    position: absolute;
+width: 253px;
+height: 78px;
+ left: 1456px;
+top: 2509px;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+color: #000000;
+
+
+}
+.content .section-3 .service-3 p{
+    position: absolute;
+    width: 510px;
+    height: 254px;
+     left: 1456px;
+    top: 2602px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.footer{
+ position: absolute;
+width: 1728px;
+height: 1030px;
+left: 0px;
+top: 3213px;
+background: #000000;
+padding-left: 146px;
+padding-right: 210px;
+
+}
+.title{
+    width: 692.27px;
+height: 144px;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+padding-left: 518px;
+padding-right: 517.73;
+color: #FFFFFF;
+}
+input[type="text"]{
+box-sizing: border-box;
+width: 1372px;
+height: 72px;
+border: 1px solid #FFFFFF;
+color: #FFFFFF;
+background-color: black;
+margin-top: 32px;
+} 
+ input[type="email"]{
+    box-sizing: border-box;
+width: 1372px;
+height: 72px;
+border: 1px solid #FFFFFF;
+color: #FFFFFF;
+background-color: black;
+margin-top: 32px;
+}
+input[type="submit"]{
+width: 93.46px;
+height: 33px;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+margin-top: 32px;
+}
